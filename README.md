@@ -8,7 +8,6 @@ The Space Shooter Game is a Python-based 2D arcade game where players control a 
 
 - **Player Controls**: Move the spaceship using arrow keys and shoot lasers using the spacebar.
 - **Enemies**: Randomly spawned meteors that the player must shoot or avoid.
-- **Scoring System**: Tracks the score based on survival time.
 - **Explosions**: Animated explosions when lasers hit meteors.
 - **Game Over Screen**: Displays options to restart or quit.
 - **Sound Effects**: Includes background music, laser sounds, and explosion effects.
